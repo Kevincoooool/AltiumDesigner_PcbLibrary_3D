@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT> 3502017260</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>MSI-7850</HOST_NAME>
+        <USER>Su_</USER>
+        <MACHINE_TYPE> Intel64 Family 6 Model 60 Stepping 3  GenuineIntel  3300 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <item tag="SUMMARY OF IMPORT PROCESSING" pointer="TRUE" item_type="4">
+        <name type="9" pointer="TRUE">
+            <value__PO__ws_val__PC__>导入处理总结</value__PO__ws_val__PC__>
+        </name>
+        <item__PO__item_set__PC__ tag="NULL" pointer="TRUE">
+            <name>NULL</name>
+            <items SOAP-ENC:Array="[10]">
+                <items_ENTRY tag="Page info" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\Altium Designer 封装\XH2.54-4P-SMT.stp</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>XH2_54-4P-SMT</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Page info 2" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data 2" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\Altium Designer 封装\XH2.54-4P-SMT.stp</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>4p_2_54_X2_8D347247_X0_</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Page info 3" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>3</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data 3" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\Altium Designer 封装\XH2.54-4P-SMT.stp</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>4p_2_54_X2_8D347247_X0__1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Page info 4" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>4</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data 4" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\Altium Designer 封装\XH2.54-4P-SMT.stp</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>4p_2_54_X2_8D347247_X0__2</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Page info 5" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data 5" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\Altium Designer 封装\XH2.54-4P-SMT.stp</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>4p_2_54_X2_8D347247_X0__3</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+            </items>
+        </item__PO__item_set__PC__>
+    </item>
+</XML_DOCUMENT>
